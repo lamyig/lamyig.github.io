@@ -1,0 +1,19 @@
+#http://planetjekyll.github.io/snippets/nav-with-data
+
+- name: མདུན་ངོས།
+  url: "/index.html"
+
+- name: འཕྲུལ་རིག་བསྐྱར་ཞིབ།
+  url: "/tech-review.html"
+
+- name: མཉེན་ཆས་གླིང་ག
+  url: "/digital-place.html"
+
+- name: ཉེན་སྲུང་ལྕགས་རི།
+  url: "/secure-tech.html"
+
+- name: འཕྲུལ་རིག་གསར་འགྱུར།།
+  url: "/tech-news.html"
+
+- name: ངའི་སྐོར།
+  url: "/about.html"

@@ -1,0 +1,61 @@
+---
+layout: default
+title:  ཉེན་སྲུང་ལྕགས་རི།
+---
+
+{% if page.url == "/" %}
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>ཉེན་སྲུང་ལྕགས་རི།</span></h2>
+    </div>
+    <div class="row">
+        
+    {% for category in site.categories %}
+
+        {% if site.categories == "ཉེན་སྲུང་ལྕགས་རི།" %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+        
+    </div>
+</section>
+
+{% endif %}
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+    
+    <div class="section-title">
+        
+        <h2 class="text-orange"><span>ཉེན་སྲུང་ལྕགས་རི།</span></h2>
+        
+    </div>
+    
+    <div class="row listrecent">
+
+       {% for post in site.posts %}
+                    {% if post.categories contains "ཉེན་སྲུང་ལྕགས་རི།" %}
+                    {% include featuredbox.html %}
+             {% endif %}
+            {% endfor %}
+        
+    </div>
+    
+</section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
+
