@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "མཉེན་ཆས་དུས་ཐོག་ཏུ་གསར་སྣོན་བྱེད་རྒྱུ་མ་བརྗེད།"
+author: ལམ་ཡིག
+category: ཉེན་སྲུང་ལྕགས་རི།
+image: assets/images/iphon-carrieer-settings-update.jpg
+permalink: /category/update-os-and-apps/
+featured: false
+hidden: false
+---
+
+![update-infographic](/assets/images/Lamyig-UPDATE-768x933.jpg)
+
+![meme](/assets/images/update-CH-2.gif)

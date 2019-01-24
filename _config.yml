@@ -1,13 +1,13 @@
 # Site
 name: "ལམ་ཡིག"
-description: "དྲྭ་རྒྱའི་རིག་གནས་ཀྱི་བང་མཛོད།"
-meta_description: "Jekyll template, Medium styled, free for bloggers."
+description: "ང་ནི་བོད་མདོ་ཁམས་ཡུལ་དུ་འཚར་ལོངས་བྱུང་བའི་བོད་མི་ན་གཞོན་ཞིག་ཡིན། རྒྱལ་ཁབ་ཕྱི་ནང་གི་སློབ་གྲྭ་ཆེ་འབྲིང་ཆུང་གསུམ་འགྲིམས་མཐར། ད་ཆ་རང་དབང་གི་ཉམས་ཞིབ་དང་།
+རྩོམ་འབྲི་དང་ཡིག་སྒྱུར་བཅས་ཀྱི་ལས་ཀ་གཉེར་བཞིན་ཡོད། ཞོར་དུ། མ་སྦྱངས་ཐུ་མེད་ཆགས་པའི་དེང་རབས་འཕྲུལ་རིག་གི་ཤེས་བྱ་སྣ་མང་ལ་དོ་སྣང་དང་སློབ་སྦྱོང་བྱེད་ཀྱི་ཡོད་"
+meta_description: "དྲྭ་རྒྱའི་རིག་གནས་ཀྱི་བང་མཛོད།"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
-google_analytics: 'UA-46278016-1'
+google_analytics: ''
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 # Authors
 authors:
@@ -31,7 +31,7 @@ authors:
     name: ལམ་ཡིག
     display_name: ལམ་ཡིག
     gravatar: assets/images/author.png
-    email: info@lamyig.com
+    email: lamyig2018@gmail.com
     web: lamyig.com
     twitter: https://twitter.com/lamyig
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."

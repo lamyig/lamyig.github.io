@@ -1,8 +1,4 @@
-# Jekyll Template - Mediumish by WowThemes.net
-
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip)
-
-![mediumish](assets/images/mediumish-jekyll-template.png)
+# Jekyll Template - Mediumish 
 
 ### Features
 
@@ -29,9 +25,14 @@
     - Page
     - Archive
     
-### Using Mediumish
+### How to Use
 
-- Open <code>_config.yml</code>. If your site is in root, for <code>baseurl</code>, make sure this is set to <code>baseurl: /</code>. Also, change your Google Analytics code, disqus username, authors, Mailchimp list etc.
+If you aren't familiar with Jekyll yet, you should know that it is a static site generator. It will transform your plain text into static websites and blogs. No more databases, slow loading websites, risk of being hacked...just your content. And not only that, with Jekyll you get free hosting with GitHub Pages! This page itself is free hosted on Github with the help of Jekyll and Mediumish template that you're currently previewing. If you are a beginner we recommend you start with [Jekyll's Docs](https://jekyllrb.com/docs/installation/){:target="_blank"}. Now if you know how to use Jekyll, let's move on to using Mediumish template in Jekyll:
+
+#### Using Mediumish
+
+Download or Fork *Mediumish for Jekyll*. 
+- In your local project, open <code>_config.yml</code>. If your site is in root, for <code>baseurl</code>, make sure this is set to <code>baseurl: /</code>. Also, change your Google Analytics code, disqus username, authors, Mailchimp list etc.
 - Mediumish requires 2 plugins: 
     - <code>$ gem install jekyll-paginate</code>
     - <code>$ gem install jekyll-archives</code>.
@@ -49,16 +50,14 @@ YAML Post Example:
 ---
 layout: post
 title:  "We all wait for summer"
-author: lamyig
+author: john
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
 featured: true
 ---
 </pre>
 
-Use <code>comments: false</code> to disable comments in posts!
-
-YAML Page Example:
+YAML Page Example
 <pre>
 ---
 layout: page
@@ -67,22 +66,13 @@ comments: true
 ---
 </pre>
 
-### Copyright
-
-Copyright (C) 2018 WowThemes.net.
-
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
-
-<a href="https://www.buymeacoffee.com/sal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-### Contribute
+#### Contribute
 
 - [Clone the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
 - Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
 - Open a pull request on GitHub and describe the feature or fix.
 
-Thank you so much for your contribution!
 
------------------
+<a href="https://www.buymeacoffee.com/sal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip)
+
