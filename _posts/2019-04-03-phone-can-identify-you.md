@@ -2,8 +2,9 @@
 layout: post
 title: ཁ་པར་གྱིས་ཅི་ཞིག་བྱེད་ཐུབ་ཀྱི་ཡོད།
 author: ལམ་ཡིག
+permalink: /phone-knows-you/
 category: ཉེན་སྲུང་ལྕགས་རི།
-image: assets/images/phone-locate.jpg
+image: phone-locate.jpg
 featured: true
 hidden: false
 ---

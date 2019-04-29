@@ -3,7 +3,7 @@ layout: post
 title:  འབུ་བླ་མ་མ་ཎིའི་བཤེར་ཆས་ཀྱི་རྙོག་གླེང་།
 author: ལམ་ཡིག
 category: འཕྲུལ་རིག་གསར་འགྱུར།
-image: assets/images/dragonfly.jpg
+image: dragonfly.jpg
 featured: false
 hidden: false
 ---

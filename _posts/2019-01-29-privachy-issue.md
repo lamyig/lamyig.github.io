@@ -3,7 +3,7 @@ layout: post
 title:  «ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ་ཀྱི་དྲ་བའི་བདེ་འཇགས་བཅའ་ཁྲིམས»གླེང་བ།
 author: ལམ་ཡིག
 category: ཉེན་སྲུང་ལྕགས་རི།
-image: assets/images/privacy-banner.jpg
+image: privacy-banner.jpg
 featured: true
 hidden: false
 ---

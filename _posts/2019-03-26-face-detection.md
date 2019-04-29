@@ -3,7 +3,7 @@ layout: post
 title:  ཀྲུང་གོའི་ངོ་གདོང་ངོས་འཛིན་འཕྲུལ་ཆས།
 author: ལམ་ཡིག
 category: འཕྲུལ་རིག་གསར་འགྱུར།
-image: assets/images/face-detection.jpg
+image: face-detection.jpg
 featured: true
 hidden: false
 ---

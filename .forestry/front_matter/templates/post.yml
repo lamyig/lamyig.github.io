@@ -9,7 +9,7 @@ fields:
   hidden: false
   config:
     required: true
-- name: slug
+- name: termalink
   type: text
   config:
     required: false

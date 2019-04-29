@@ -3,7 +3,7 @@ layout: post
 title:  ཁུངས་འབྱེད་མཉེན་ཆས་ཀྱི་ཁེ་ཕན།
 author: ལམ་ཡིག
 category: མཉེན་ཆས་གླིང་ག
-image: assets/images/opencsource-banner.jpg
+image: opencsource-banner.jpg
 featured: true
 hidden: false
 ---

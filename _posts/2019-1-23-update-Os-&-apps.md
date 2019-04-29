@@ -3,9 +3,9 @@ layout: post
 title:  "མཉེན་ཆས་དུས་ཐོག་ཏུ་གསར་སྣོན་བྱེད་རྒྱུ་མ་བརྗེད།"
 author: ལམ་ཡིག
 category: ཉེན་སྲུང་ལྕགས་རི།
-image: assets/images/iphon-carrieer-settings-update.jpg
-permalink: /category/update-os-and-apps/
-featured: false
+image: iphon-carrieer-settings-update.jpg
+permalink: /update-os-and-apps/
+featured: true
 hidden: false
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  ཀུ་ཤུ་ཁ་པར X དང་སེམས་སོང GALAXY S9 གཉིས་ཞིབ་བསྡུར།
 author: ལམ་ཡིག
 category: འཕྲུལ་རིག་བསྐྱར་ཞིབ།
-image: assets/images/galaxyS9&iphoneX.jpg
+image: galaxyS9&iphoneX.jpg
 featured: true
 hidden: false
 ---

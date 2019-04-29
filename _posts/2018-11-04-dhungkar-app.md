@@ -3,7 +3,7 @@ layout: post
 title:  དུང་དཀར་བོད་སྐད་ངོས་འཛིན་བཀོལ་ཆས།
 author: ལམ་ཡིག
 category: མཉེན་ཆས་གླིང་ག
-image: assets/images/dhungkar-app.jpeg
+image: dhungkar-app.jpeg
 featured: true
 hidden: false
 ---

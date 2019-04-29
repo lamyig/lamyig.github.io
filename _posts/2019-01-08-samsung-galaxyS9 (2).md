@@ -3,7 +3,7 @@ layout: post
 title:  སེམས་སོང་GALAXY 9 བསྐྱར་ཞིབ།
 author: ལམ་ཡིག
 category: འཕྲུལ་རིག་བསྐྱར་ཞིབ།
-image: assets/images/05-samsung-galaxy-s9-and-s9-plus-1.jpg
+image: 05-samsung-galaxy-s9-and-s9-plus-1.jpg
 featured: true
 hidden: false
 ---

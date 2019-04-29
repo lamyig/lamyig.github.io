@@ -3,7 +3,7 @@ layout: post
 title:  "དྲྭ་རྒྱའི་བྱེད་ལས་རྩོམ་སྟངས་ག་འདྲ་ཡིན་ནམ།"
 author: ལམ་ཡིག
 category: ཉེན་སྲུང་ལྕགས་རི།
-image: assets/images/How-Internet-Works.jpg
+image: How-Internet-Works.jpg
 featured: false
 hidden: false
 ---

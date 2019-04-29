@@ -3,7 +3,7 @@ layout: post
 title:  ཨན་ཌོ་དང་ཀུ་ཤུ་ཞིབ་བསྡུར།
 author: ལམ་ཡིག
 category: འཕྲུལ་རིག་བསྐྱར་ཞིབ།
-image: assets/images/androidVSios.jpg
+image: androidVSios.jpg
 featured: true
 hidden: false
 ---

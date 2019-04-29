@@ -3,7 +3,7 @@ layout: post
 title:  མཛོད་ཁང་གི་ལྡེ་མིག་གཞན་ལག་ཏུ་ཤོར་མ་འཇུག
 author: ལམ་ཡིག
 category: ཉེན་སྲུང་ལྕགས་རི།
-image: assets/images/strong-password-1024x563.jpg
+image: strong-password-1024x563.jpg
 featured: false
 hidden: true
 ---

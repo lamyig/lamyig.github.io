@@ -3,7 +3,7 @@ layout: post
 title:  "ཀུ་ཤུ་ཁ་པར XS བསྐྱར་ཞིབ།"
 author: ལམ་ཡིག
 category: འཕྲུལ་རིག་བསྐྱར་ཞིབ།
-image: assets/images/iphone-xs-lede.jpg
+image: iphone-xs-lede.jpg
 featured: false
 hidden: false
 ---

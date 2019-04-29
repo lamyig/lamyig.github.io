@@ -3,7 +3,7 @@ layout: post
 title:  ཨའོ་ཕོ F7 བསྐྱར་ཞིབ། (བོད་ཡིག་གི་གདམ་ག)
 author: ལམ་ཡིག
 category: འཕྲུལ་རིག་བསྐྱར་ཞིབ།
-image: assets/images/oppoF7-BANNER-1.jpg
+image: oppoF7-BANNER-1.jpg
 featured: false
 hidden: false
 ---
