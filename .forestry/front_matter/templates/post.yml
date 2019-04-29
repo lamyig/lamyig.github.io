@@ -9,11 +9,12 @@ fields:
   hidden: false
   config:
     required: true
-- type: text
-  name: author
-  label: Author
+- name: slug
+  type: text
   config:
-    required: true
+    required: false
+  label: Slug
+  description: 'Alternate name for post '
 - type: tag_list
   name: category
   label: Category
@@ -26,6 +27,12 @@ fields:
   name: featured
   label: Featured
   description: Display in Home Page or Hide
+  default: true
+- type: text
+  name: author
+  label: Author
+  config:
+    required: true
 - type: datetime
   name: date
   label: Date
