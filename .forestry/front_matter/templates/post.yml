@@ -1,0 +1,33 @@
+---
+label: post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+  description: Post Title
+  hidden: false
+  config:
+    required: true
+- type: text
+  name: author
+  label: Author
+  config:
+    required: true
+- type: tag_list
+  name: category
+  label: Category
+- type: file
+  name: image
+  label: Featured Image
+  config:
+    maxSize: '2'
+- type: boolean
+  name: featured
+  label: Featured
+  description: Display in Home Page or Hide
+- type: datetime
+  name: date
+  label: Date
+  config:
+    date_format: YY/MM/DD
