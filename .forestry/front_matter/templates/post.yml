@@ -9,12 +9,12 @@ fields:
   hidden: false
   config:
     required: true
-- name: termalink
+- name: permalink
   type: text
   config:
     required: false
   label: Slug
-  description: 'Alternate name for post '
+  description: 'format: / slug name /'
 - type: tag_list
   name: category
   label: Category
@@ -33,10 +33,3 @@ fields:
   label: Author
   config:
     required: true
-- type: datetime
-  name: date
-  label: Date
-  config:
-    date_format: YY/MM/DD
-pages:
-- _posts/ཕྱི-རྒྱལ-གྱི-དྲ-ཚིགས-ལྟ-མཁན-ལ-ཉེས-ཆད.md
