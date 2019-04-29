@@ -33,3 +33,5 @@ fields:
   label: Author
   config:
     required: true
+pages:
+- _posts/བརྡ-རྟགས-གླེང-མོལ-བཀོལ-ཆས-signal.md
