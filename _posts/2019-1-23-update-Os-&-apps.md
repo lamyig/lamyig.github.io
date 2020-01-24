@@ -4,7 +4,6 @@ title:  "མཉེན་ཆས་དུས་ཐོག་ཏུ་གསར་�
 author: ལམ་ཡིག
 category: ཉེན་སྲུང་ལྕགས་རི།
 image: iphon-carrieer-settings-update.jpg
-permalink: /update-os-and-apps/
 featured: true
 hidden: false
 ---
